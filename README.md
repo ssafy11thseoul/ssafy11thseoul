@@ -12,4 +12,4 @@
 - 즐겁게 공부하기 
 
 ## 🐦 Wannabe
-- frontend developergit 
+- frontend developer
