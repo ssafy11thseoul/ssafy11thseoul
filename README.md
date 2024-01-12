@@ -1,7 +1,7 @@
 ## 🐣 Profile
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssafy11thseoul&count_bg=%23FBD1F9&title_bg=%23AFEEF3&icon=&icon_color=%23F9B9F2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p align="center"><img src="https://i.namu.wiki/i/NWHcF3BVFTUXZJFgJCZFHkdCc2LsndRuxmtOtvcqczBvVg5eUEyumKLucuxJkpLAla82D4NriGRZ7MYBBB4_R2jbCW1PE5EkmXrCRfSV0GPLct_1ZvEtQgd5RMTEC7IoQU8vBo3cNE0PaHoXRViyuA.webp" width="500" height="300"/></p>
+<p align="center"><img src="https://mblogthumb-phinf.pstatic.net/MjAyMjA1MTFfMjEg/MDAxNjUyMjA4ODM0MjM2.r-BHTQF3XiIooGeu5mSjJ86OylPfBQryfRRO5RyBwqcg.13kU6_4rfF4VIe9CAZmpZ93pMOc4dxRk-1Jraz3Cjqog.JPEG.gongju0911/IMG_4452.JPG?type=w800" width="500" height="300"/></p>
 
 
 
