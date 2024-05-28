@@ -64,9 +64,9 @@ sqld
 
 초등쌤에서 <span style="color: #FBF0B2">개발자</span>로!
 <br>
-💙 초등학교 교사 (~2023.08)
+💙 초등학교 교사 (-2023.08)
 <br>
-🩷 SSAFY JAVA과정(2024.1.10~)  
+🩷 SSAFY JAVA과정(2024.1.10-)  
 
 </details>
 </div>
