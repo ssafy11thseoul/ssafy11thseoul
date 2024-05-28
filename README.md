@@ -27,7 +27,7 @@
 ## 🐦 Wannabe
 <div align="center">
 
->  <span style="color: #D8B4F8; font-weight: bolder; font-size: 1.5rem"> 🧚‍♀️ Frontend developer</span>
+ <span style="color: #D8B4F8; font-weight: bolder; font-size: 1.5rem"> 🧚‍♀️ Frontend developer</span>
 <br>
  <span style="color: #CAEDFF; font-weight: bolder; font-size: 1.5rem"> 🏃서비스 기획자 </span>
 <br>
@@ -39,7 +39,7 @@
 ## 📓 성장 일기 
 <div align="center">
 
-> 🥔 말 못하는 감자
+🥔 말 못하는 감자
 <br>
 adsp
 <br>
@@ -49,7 +49,7 @@ sqld
 ## 🥅 Goals for 2024
 <div align="center">
 
-> 그날그날 배운 것, 느낀 것 기록하기
+그날그날 배운 것, 느낀 것 기록하기
 <br>
 그 주에 배운 것은 주말까지 소화하기
 <br>
@@ -62,7 +62,7 @@ sqld
 <div align="center">
 <details><summary>Click Me! 👆</summary>
 
-> 초등쌤에서 <span style="color: #FBF0B2">개발자</span>로!
+초등쌤에서 <span style="color: #FBF0B2">개발자</span>로!
 <br>
 💙 초등학교 교사 (~2023.08)
 <br>
